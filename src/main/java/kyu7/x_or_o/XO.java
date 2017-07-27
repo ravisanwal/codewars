@@ -1,4 +1,4 @@
-package x_or_o;
+package kyu7.x_or_o;
 
 public class XO {
 
