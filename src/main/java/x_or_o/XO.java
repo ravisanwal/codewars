@@ -1,4 +1,4 @@
-package kyu7.odd_or_even.x_or_o;
+package x_or_o;
 
 public class XO {
 
